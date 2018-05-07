@@ -9,3 +9,4 @@ This statistic is comparable to batting average except instead of dividing by th
 When looking through different baseball statistics I was never able to find one that uses strikeouts as the main focus, so I wanted to see what I could do with it. I think this would be a good statistic because it shows how efficient the player is based on the number of strikeouts they received in the year. Also with my demonstration you will be able to see if players have improved or declined throughout the years. So, you will be able to see if players are becoming more efficient per strikeout, or getting worse. A
 In the Final Project Word Document, there is an example of Nolan Arenado and his statistics throughout the years.
 
+Link to Video: https://www.youtube.com/watch?v=Ruviy2vnTFA&feature=youtu.be
